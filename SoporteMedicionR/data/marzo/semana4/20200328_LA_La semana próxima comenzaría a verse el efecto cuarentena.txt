@@ -1,0 +1,39 @@
+Cristian Ghezzi es docente de física cuántica y utilizó sus conocimientos para proyectar los números de la epidemia. El virus se expande tan rápidamente que el crecimiento del número de contagiados se ajusta a una curva exponencial. 
+
+Los cálculos realizados por un profesor de la Facultad de Ciencias Exactas y Naturales vaticinan que para el martes 31 de marzo el número de contagiados por coronavirus en nuestro país superará las 1.700 personas. En la próxima semana, la cantidad de infectados debería empezar a despegarse de la proyección matemática, revelando que la cuarentena está surtiendo efecto. En esta primera semana, el aislamiento aún no se refleja en los datos.
+
+Cristian Ghezzi es licenciado en Física y doctor en Astrofísica, conocimientos que le obligan a tener un gran manejo de herramientas avanzadas de Matemática y Estadística. Oriundo de Bahía Blanca y radicado efectivamente en Santa Rosa desde hace un año -anteriormente era profesor viajero-, está a cargo de las cátedras Mecánica Cuántica I y II de la Licenciatura en Física, en la Facultad de Ciencias Exactas y Naturales de la Universidad Nacional de La Pampa.
+
+Fue merced a ese saber y al entender que la sociedad en su conjunto, e incluso las autoridades universitarias, no percibían la gravedad que representaba la pandemia del Covid-19, que Ghezzi empezó a hacer proyecciones de la evolución de la pandemia en nuestro país que compartía en sus redes personales.
+
+Su pálpito se confirmó unos días después, cuando el gobierno nacional tomó drásticas medidas para contener la expansión de la pandemia.
+
+Modelo no lineal
+
+«Lo que he podido ver es que el número de contagiados se ajusta exactamente a un modelo no lineal con un crecimiento exponencial», comentó el docente a LA ARENA. «El ajuste es tan exacto que el valor de R2 es de 0,997», detalló. R2 es un coeficiente de ajuste que permite determinar en cuánto se acercan los valores medidos a los proyectados por un modelo matemático o estadístico. «En este caso, el ajuste es altísimo, cercano a 1, que es el valor máximo».
+
+¿Qué significa este ajuste? «Que si no se aplica una cuarentena estricta, el número de contagiados seguirá creciendo en forma exponencial», anticipó.
+Para realizar su estimación, Ghezzi tomó datos de personas contagiadas y fallecidas del Ministerio de Salud de la Nación, es decir, información oficial. Para el número de enfermos recuperados, recurrió a la base de datos de la Universidad John Hopkins, de Estados Unidos, que elabora un parte diario de la evolución de la pandemia a nivel mundial, incluyendo mapas interactivos.
+
+Despegue
+
+Que el número de personas infectadas en Argentina se ajuste con tanta exactitud al modelo matemático significa que «por ahora no se ven los efectos positivos de la cuarentena», señaló Ghezzi. «Es como si no estuviéramos en cuarentena», sostuvo. Esto porque «recién ha transcurrido la primera semana de cuarentena, y porque están apareciendo ahora personas que se contagiaron antes de que se la dictara».
+
+La efectividad de la medida de aislamiento debería empezar a verse la próxima semana, al cumplirse la primera quincena de la medida. «Dentro de unos días tenemos que ver cómo los puntitos azules del gráfico -las personas contagiadas- empiezan a despegarse de la línea gris. Cuando eso suceda, significa que la cuarentena está empezando a dar los resultados esperados», explicó.
+
+Lo que debería verse, añadió, es que «la curva de los contagiados va a seguir creciendo, pero a un ritmo menor, hasta aplanarse». Esto se llama «efecto de saturación» y reflejará que la primera parte de la batalla contra el virus está ganada. «Pero ahí recién estamos a mitad de camino: luego tendremos que seguir 15 días más de cuarentena para hacer que la curva de nuevos infectados empiece a descender», advirtió.
+
+«No estoy de acuerdo con quienes dicen que una vez que se estabilice la curva de contagios ya se puede levantar la cuarentena. Hacerlo sería muy peligroso, se enfrentaría el riesgo de un rebrote y el crecimiento volvería a ser exponencial», opinó.
+«Se cree que si al cabo de 14 días no hay nuevos contagios es seguro levantar la cuarentena, pero esta pandemia ha desorientado a los expertos y existen muchas incertezas. Por eso tenemos que extender la cuarentena hasta que el número de nuevos casos se anule», concluyó.
+
+Hay menos casos de los esperados, aseguró Ginés González
+
+«El número de casos viene por debajo de lo que estábamos esperando», analizó el ministro de Salud, Ginés González García, respecto de la evolución que el contagio de coronavirus Covid-19 está mostrando en el país, aunque pidió esperar hasta el 31 de marzo para concluir si se logró mantener «la curva de contagios bien aplanada». Ginés felicitó «a todos los argentinos que están cumpliendo con la cuarentena», a pesar de que «hay algunos que todavía no la cumplen». «Les pedimos que entiendan que es por el bien de todos», exhortó el ministro de Salud a quienes aún no respetan la orden de aislamiento obligatorio dada por el gobierno nacional, al menos, hasta el 31 de marzo.
+
+Respecto de la propagación del Covid-19, el ministro señaló que se han hecho «muchas curvas de simulación» para comprender que, hasta ahora, el número de casos registrados está por debajo de las primeras proyecciones y subrayó: «Los primeros resultados de esta cuarentena los vamos a ver recién después del 31 de marzo, cuando podamos analizar si se mantiene una curva bien aplanada». En ese sentido, el ministro precisó que el pico de contagios se preveía para la segunda quincena de abril, «pero como lo estamos ralentizando quizá sea más adelante, aunque eso tiene que ver con cómo se vaya propagando el virus».
+
+Ganar tiempo
+
+El ministro insistió con que la estrategia tomada por el Gobierno nacional, en coordinación con los provinciales, es «ganar tiempo para que se preparen mejor los servicios sanitarios y que el pico de demanda no sea tan alto, que los casos sean los menos posibles y extendidos en el tiempo». «Estamos mirando lo que está pasando en todo el mundo para ver qué se puede aplicar acá, el mundo en general reaccionó tarde y nosotros pudimos tomar medidas desde antes de registrar el primer caso e ir de manera gradual hasta esta cuarentena», subrayó.
+
+En cuanto al problema de el abastecimiento de suministros que se enfrenta en todo el mundo, Ginés señaló que «Argentina tiene una capacidad muy limitada de producción de respiradores» repartida en tres empresas, entre las que una concentra el 80% del mercado. El ministro precisó que las empresas enfrentaban una demanda de 2500 unidades para el sector público y 1200 para el sector privado con una capacidad de producción de 80 por semana. Esa producción fue aumentada a 100 respiradores por semana, pero el Estado decidió, en lugar de dejar la entrega a la libre demanda, «comprar toda la producción para distribuirlos de acuerdo a las necesidades». (Página12.com)

@@ -1,0 +1,23 @@
+Dos bioingenieros de Entre Ríos diseñaron un dispositivo de desinfección portátil y afirmaron «que en 30 minutos elimina entre el 95 y 99% del coronavirus que permanece en las superficies».
+
+A través de rayos ultravioletas, el equipo «se despliega en la habitación donde estuvo el paciente con Covid-19 y en 30 minutos elimina la carga viral sobre las superficies, donde puede vivir hasta tres horas», dijo a Telam Santiago Romero, uno de los dos bioingenieros enterrianos.
+
+Aunque el dispositivo no necesita autorización de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (Anmat), el organismo dispuso de bioingenieros a través de un programa para «brindar soporte y aportar miradas a emprendedores», explicó.
+
+También el Instituto Nacional de Tecnología Industrial (INTI) aportó su ayuda para realizar «ensayos en diferentes laboratorios, que ya están iniciando». El dispositivo es un «equipo de soporte» que presenta unos 10 tubos de rayos ultravioletas de 30 watts, que van en un sistema metálico con ruedas para que sea «más económico y fácil de producir», explicó.
+
+“Vi la publicidad de un sistema parecido que se implementa en China y llegamos a la conclusión de que podíamos hacer una adaptación rápida para los estándares de la Argentina”, completó Romero, que trabaja con su colega Sebastián Flores.
+
+En seis días desarrollaron el primer prototipo que ya está listo, y esperan financiamiento para iniciar la fabricación en serie «hasta que se acaben las lámparas UV disponibles».
+
+El equipo trabaja durante 30 minutos «para que entre el 95 y 99% del virus que permanece en el ambiente muera, y consta de un sistema de seguridad que al detectar movimiento interrumpe la emisión de rayos UV», afirmó.
+
+El virus «puede vivir alrededor de los pacientes hasta tres horas en el aire y en todas las superficies donde fue expuesto el paciente puede durar hasta días», sostuvo Romero en diálogo con Télam.
+
+Si bien el objetivo es que funcione en «hospitales, por la cantidad de carga viral y que el personal de salud estén menos expuestos al virus» también «ante la crecida del virus se puede utilizar como servicio en casas, ambientes u oficinas».
+
+Romero destacó que si bien el sistema «no reemplaza la desinfección habitual» que se realiza en hospitales, «desinfecta donde llega la luz, en lugares donde uno no alcanza por tiempo o por zonas dificultosas».
+
+Además, la persona que va a estar haciendo la limpieza «está mucho menos expuesta a la carga viral que tendría si no se utiliza el equipo», agregó. «Estos días le estamos sumando electrónica, para la capacidad de apagarse cuando alguien ingrese al lugar, y para que se prenda remotamente», resaltó Romero.
+
+En ese sentido, trabajan dos variantes: «una es que se prenda generando una wifi, pero como no todos saben cómo entrar desde un celular, implementamos la parte simple de mantener apretado un botón y que dé tiempo para salir de la habitación antes de comenzar». «Es muy intenso todo, con charlas, planes de negocios, pedidos, y trabajo ya que estamos desarrollando un producto en días, cuando normalmente lleva meses», indicó. (Télam)

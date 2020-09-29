@@ -1,0 +1,218 @@
+"","ruta","archivo","qterm_pos","vterm_pos","qterm_neg","vterm_neg","tasaPosNot","tasaNegNot","vPolNot"
+"1","./ieeelatam/data/marzo/semana1/","20200301_RF_China pone la mira en la importación de contagiados de los países con brote.txt",25,6.9334,10,2.7,0.277336,0.27,2.56792592592593
+"2","./ieeelatam/data/marzo/semana1/","20200303_DT_Coronavirus en el país. en La Pampa continúan con las recomendaciones de prevención.txt",47,19.88585,11,4.7333,0.423103191489362,0.4303,4.20126550186973
+"3","./ieeelatam/data/marzo/semana1/","20200303_LA_Las claves del Coronavirus. los síntomas y cómo cuidarse.txt",36,15.16675,26,14.5333,0.421298611111111,0.558973076923077,1.04358610914245
+"4","./ieeelatam/data/marzo/semana1/","20200307_DT_Salud desmiente que haya casos de coronavirus en La Pampa.txt",29,12.9001,7,2.8333,0.444831034482759,0.404757142857143,4.55303003564748
+"5","./ieeelatam/data/marzo/semana1/","20200307_LA_Coronavirus.La Pampa se suma a la resolución que otorga licencia a quienes regresen del exterior.txt",66,32.4775,10,3.8,0.492083333333333,0.38,8.54671052631579
+"6","./ieeelatam/data/marzo/semana1/","20200307_RF_Coronavirus. confirmaron la primera muerte en Argentina.txt",35,13.6334,13,5.2,0.389525714285714,0.4,2.62180769230769
+"7","./ieeelatam/data/marzo/semana2/","20200308_DT_Coronavirus. La Pampa adhirió a las licencias especiales.txt",36,16.6776,6,3,0.463266666666667,0.5,5.5592
+"8","./ieeelatam/data/marzo/semana2/","20200310_DT_Elevan a 19 los casos de coronavirus en Argentina.txt",22,8.55,5,2.2,0.388636363636364,0.44,3.88636363636364
+"9","./ieeelatam/data/marzo/semana2/","20200310_DT_La Pampa podría poner en cuarentena a cazadores de Italia, España y Alemania.txt",24,11.83095,2,0.6,0.49295625,0.3,19.71825
+"10","./ieeelatam/data/marzo/semana2/","20200311_LA_Otros dos casos de coronavirus en Argentina.txt",70,30.7141,11,5.4,0.438772857142857,0.490909090909091,5.6877962962963
+"11","./ieeelatam/data/marzo/semana2/","20200312_LA_Será obligatoria la cuarentena.txt",60,27.32355,24,9.7,0.4553925,0.404166666666667,2.81686082474227
+"12","./ieeelatam/data/marzo/semana2/","20200312_RF_Un jugador dio positivo y Dybala, Higuain y Lautaro Martinez entraron en cuarentena.txt",13,8.4,3,0.6222,0.646153846153846,0.2074,13.5004821600771
+"13","./ieeelatam/data/marzo/semana2/","20200313_DT_Coronavirus. hay unas 150 personas en La Pampa en cuarentena.txt",31,16.1584,12,5.36666666666667,0.521238709677419,0.447222222222222,3.01088198757764
+"14","./ieeelatam/data/marzo/semana2/","20200313_ED_Se escucharon aplausos y bocinazos.txt",22,10.0333,10,3.9,0.456059090909091,0.39,2.57264102564103
+"15","./ieeelatam/data/marzo/semana2/","20200313_LA_Registraron los primeros casos de coronavirus en Uruguay.txt",13,4.84285,4,1,0.372526923076923,0.25,4.84285
+"16","./ieeelatam/data/marzo/semana2/","20200314_DT_Dieron negativo los tres casos sospechosos de coronavirus en La Pampa.txt",17,7.8,6,2,0.458823529411765,0.333333333333333,3.9
+"17","./ieeelatam/data/marzo/semana2/","20200314_LA_Siguen las clases pero cierran boliches y Casino.txt",309,148.5025,75,25.3667,0.480590614886731,0.338222666666667,5.85423015212858
+"18","./ieeelatam/data/marzo/semana2/","20200314_RF_Suspendieron Jaguares-Highlanders.txt",30,14.7166,5,1.2222,0.490553333333333,0.24444,12.0410734740632
+"19","./ieeelatam/data/marzo/semana3/","20200315_LA_En La Pampa no hay contagiados con coronavirus.txt",128,60.0192,37,14.0333,0.4689,0.379278378378378,4.2769127717643
+"20","./ieeelatam/data/marzo/semana3/","20200315_RF_El gobierno de La Pampa brindó un panorama actualizado del virus en la provincia.txt",71,31.7676,19,7,0.447430985915493,0.368421052631579,4.53822857142857
+"21","./ieeelatam/data/marzo/semana3/","20200316_LA_Registran 11 nuevos casos de coronavirus en el país.txt",10,4.74285,2,1,0.474285,0.5,4.74285
+"22","./ieeelatam/data/marzo/semana3/","20200317_DT_Por la pandemia, hoteles y restoranes de La Pampa piden suspender el pagos de impuestos.txt",47,18.121,7,2.4333,0.385553191489362,0.347614285714286,7.44708831627831
+"23","./ieeelatam/data/marzo/semana3/","20200317_LA_Detienen a dos belgas en Buodo y están aislados en General Acha.txt",26,12.84285,5,1.1,0.493955769230769,0.22,11.6753181818182
+"24","./ieeelatam/data/marzo/semana3/","20200317_LA_Detienen a un joven por exhibiciones obscenas.txt",28,10.76985,7,2.8,0.3846375,0.4,3.846375
+"25","./ieeelatam/data/marzo/semana3/","20200317_LA_Estamos muy tristes y preocupados.txt",60,30.33795,8,3.9,0.5056325,0.4875,7.77896153846154
+"26","./ieeelatam/data/marzo/semana3/","20200317_LA_Trump habló del virus chino y desató la furia de Beijing.txt",40,15.15945,12,4.3,0.37898625,0.358333333333333,3.52545348837209
+"27","./ieeelatam/data/marzo/semana3/","20200317_RF_Ratificaron la suspensión del TC en La Pampa.txt",34,17.0667,6,1.2444,0.501961764705882,0.2074,13.7148023143684
+"28","./ieeelatam/data/marzo/semana3/","20200318_DT_Por ahora La Pampa no impone cuarentena a todos los que ingresen a la provincia.txt",14,5.64285,1,0.2,0.403060714285714,0.2,28.21425
+"29","./ieeelatam/data/marzo/semana3/","20200318_LA_Deportes que desafían al coronavirus.txt",133,62.63895,14,3.16666666666667,0.47096954887218,0.226190476190476,19.7807210526316
+"30","./ieeelatam/data/marzo/semana3/","20200318_LA_Internaron a un pasajero que llegó en un colectivo a Santa Rosa con síntomas de coronavirus.txt",34,14.7596,9,2,0.434105882352941,0.222222222222222,7.3798
+"31","./ieeelatam/data/marzo/semana3/","20200318_RF_Los baños de la plaza San Martín, cerrados.txt",7,2.9,0,0,0.414285714285714,NA,NA
+"32","./ieeelatam/data/marzo/semana3/","20200319_DT_Circulan propaladoras para prevenir el COVID-19.txt",17,8.9,3,1.2,0.523529411764706,0.4,7.41666666666667
+"33","./ieeelatam/data/marzo/semana3/","20200319_IP_Covid-19. se desestimó que el viajero interceptado en Santa Rosa se trate de “caso sospechoso”.txt",24,8.8429,7,2.4,0.368454166666667,0.342857142857143,3.68454166666667
+"34","./ieeelatam/data/marzo/semana3/","20200319_LA_Clases en línea en tiempos de coronavirus.txt",48,23.7417,7,3.4666,0.49461875,0.495228571428571,6.84869901344257
+"35","./ieeelatam/data/marzo/semana3/","20200319_LA_No descartan una cuarentena total si el coronavirus se expande.txt",119,53.24765,45,15.65,0.447459243697479,0.347777777777778,3.40240575079872
+"36","./ieeelatam/data/marzo/semana3/","20200319_LA_Santa Isabel se anticipó y blindó hotelería y restaurantes.txt",55,23.7179,17,5.96663333333333,0.431234545454545,0.350978431372549,3.97508924630864
+"37","./ieeelatam/data/marzo/semana3/","20200319_LA_Ya está disponible el listado de pampeanos en cuarentena.txt",16,5.8,2,0.4,0.3625,0.2,14.5
+"38","./ieeelatam/data/marzo/semana3/","20200319_RF_Diputada propone un diferimiento en el pago de impuestos provinciales por seis meses.txt",32,17.6667,7,2.8,0.552084375,0.4,6.30953571428571
+"39","./ieeelatam/data/marzo/semana3/","20200319_RF_El viajero interceptado en Santa Rosa no es un caso sospechoso.txt",39,14.9382,8,3.2,0.383030769230769,0.4,4.6681875
+"40","./ieeelatam/data/marzo/semana3/","20200319_RF_Huemul Mata espera regresar al país la semana próxima.txt",66,35.9167,7,3.1,0.544192424242424,0.442857142857143,11.5860322580645
+"41","./ieeelatam/data/marzo/semana3/","20200319_RF_Ya está disponible la web para consultar quién debe estar en cuarentena.txt",14,6.1,0,0,0.435714285714286,NA,NA
+"42","./ieeelatam/data/marzo/semana3/","20200320_DT_En La Pampa, juicios “exprés” para los que violen la cuarentena.txt",46,20.0433,28,10.8,0.435723913043478,0.385714285714286,1.85586111111111
+"43","./ieeelatam/data/marzo/semana3/","20200320_DT_En La Pampa, otro día sin casos confirmados ni sospechosos de coronavirus.txt",12,4.4429,5,2.3,0.370241666666667,0.46,1.93169565217391
+"44","./ieeelatam/data/marzo/semana3/","20200320_IP_Vialidad Provincial se sumó a la campaña de prevención respecto al COVID-19.txt",17,6.3001,0,0,0.370594117647059,NA,NA
+"45","./ieeelatam/data/marzo/semana3/","20200320_LA_Coronavirus. texto completo del DNU del Aislamiento Social Obligatorio.txt",274,132.30945,61,20.4332,0.482881204379562,0.334970491803279,6.47521925102285
+"46","./ieeelatam/data/marzo/semana3/","20200320_LA_La economía en tiempos de peste.txt",65,28.4165,27,12,0.437176923076923,0.444444444444444,2.36804166666667
+"47","./ieeelatam/data/marzo/semana3/","20200320_LA_Se cuadriplicó la demanda de cadetes y mensajeros.txt",112,60.99995,12,5.4,0.544642410714286,0.45,11.296287037037
+"48","./ieeelatam/data/marzo/semana3/","20200320_RF_El Fre.Ju.Pa, alineado.txt",27,12.30005,4,0.9,0.455557407407407,0.225,13.6667222222222
+"49","./ieeelatam/data/marzo/semana3/","20200321_DT_Con 225 casos de coronavirus en el país, La Pampa aún está a salvo.txt",84,39.3165,22,7.33333333333333,0.468053571428571,0.333333333333333,5.36134090909091
+"50","./ieeelatam/data/marzo/semana3/","20200321_DT_Coronavirus. este sábado, sin casos confirmados ni sospechosos en La Pampa.txt",29,12.02865,8,3.4,0.414781034482759,0.425,3.53783823529412
+"51","./ieeelatam/data/marzo/semana3/","20200321_IP_El comité de crisis sanitaria en General Pico sugirió el cierre total de comercios por acuerdo social los días domingo, lunes y martes.txt",36,14.51675,7,1.5,0.403243055555556,0.214285714285714,9.67783333333334
+"52","./ieeelatam/data/marzo/semana3/","20200321_IP_La Pampa se mantiene sin casos confirmados o sospechosos del Covid-19.txt",57,24.43355,11,4.4,0.428658771929825,0.4,5.55307954545455
+"53","./ieeelatam/data/marzo/semana3/","20200321_LA_Coronavirus en Argentina.158 infectados, 4 muertos y 15 provincias afectadas.txt",24,9.8262,6,2.8,0.409425,0.466666666666667,3.50935714285714
+"54","./ieeelatam/data/marzo/semana3/","20200321_LA_Cuarta muerte por coronavirus en Argentina.txt",21,8.71665,3,0.6,0.415078571428572,0.2,14.52775
+"55","./ieeelatam/data/marzo/semana3/","20200321_LA_Detuvieron a una pareja por violar la cuarentena en Santa Rosa.txt",53,26.3711,7,2,0.497567924528302,0.285714285714286,13.18555
+"56","./ieeelatam/data/marzo/semana3/","20200321_LA_El Covid-19 avanza en Reino Unido.txt",61,23.22855,9,3.96666666666667,0.380795901639344,0.440740740740741,5.85593697478992
+"57","./ieeelatam/data/marzo/semana3/","20200321_LA_La Pampa continúa sin casos confirmados o sospechosos de Covid-19.txt",57,24.43355,11,4.4,0.428658771929825,0.4,5.55307954545455
+"58","./ieeelatam/data/marzo/semana3/","20200321_LA_Largas colas en los supermercados.txt",68,29.59305,6,1.86666666666667,0.435191911764706,0.311111111111111,15.8534196428571
+"59","./ieeelatam/data/marzo/semana3/","20200321_LA_Queja de una pampeana se repite en todo Madrid.txt",48,20.6077,9,2.96666666666667,0.429327083333333,0.32962962962963,6.94641573033708
+"60","./ieeelatam/data/marzo/semana3/","20200321_LA_Restricciones en el servicio de colectivos en Santa Rosa.txt",12,5.4667,4,1,0.455558333333333,0.25,5.4667
+"61","./ieeelatam/data/marzo/semana3/","20200321_RF_Denunciaron a quien viralizó un mensaje sobre un falso caso de Coronavirus en La Pampa.txt",57,25.0831,10,5.6,0.440054385964912,0.56,4.479125
+"62","./ieeelatam/data/marzo/semana3/","20200321_RF_El panorama acá es alarmante.txt",92,46.09535,15,7.76666666666667,0.501036413043478,0.517777777777778,5.93502360515021
+"63","./ieeelatam/data/marzo/semana3/","20200321_RF_La Pampa se mantiene sin casos confirmados o sospechosos del Covid-19.txt",41,16.63355,10,4.2,0.405696341463415,0.42,3.96036904761905
+"64","./ieeelatam/data/marzo/semana3/","20200321_RF_Mas de 150 metros de cola para ingresar a supermercados.txt",12,5.675,2,0.4,0.472916666666667,0.2,14.1875
+"65","./ieeelatam/data/marzo/semana3/","20200321_RF_Paulo Dybala y Oriana Sabatini confirmaron que dieron positivo de coronavirus.txt",30,17.3,2,1.8,0.576666666666667,0.9,9.61111111111111
+"66","./ieeelatam/data/marzo/semana3/","20200321_RF_Ya no solo afecta a adultos mayores.txt",41,20.1082,5,2.2,0.490443902439024,0.44,9.14009090909091
+"67","./ieeelatam/data/marzo/semana4/","20200322_DT_Este domingo tampoco hay casos de coronavirus en La Pampa.txt",28,13.4333,12,4.33333333333333,0.479760714285714,0.361111111111111,3.09999230769231
+"68","./ieeelatam/data/marzo/semana4/","20200322_IP_Coronavirus. en General Pico no hay casos confirmados y se mantiene el número de 100 personas en cuarentena.txt",12,2.9334,1,0.8,0.24445,0.8,3.66675
+"69","./ieeelatam/data/marzo/semana4/","20200322_IP_Covid-19. La Pampa no registra casos confirmados y amplió el rango para interpretar los “sospechosos”.txt",20,7.91675,2,0.4,0.3958375,0.2,19.791875
+"70","./ieeelatam/data/marzo/semana4/","20200322_IP_Covid-19. La Pampa no registra casos confirmados y amplió el rango para interpretar los sospechosos.txt",20,7.91675,2,0.4,0.3958375,0.2,19.791875
+"71","./ieeelatam/data/marzo/semana4/","20200322_LA_Ayer se confirmaron 67 nuevos casos de COVID-19.txt",61,29.6953,27,8.4,0.486808196721312,0.311111111111111,3.53515476190476
+"72","./ieeelatam/data/marzo/semana4/","20200322_LA_Medidas para prevenir el Covid-19.txt",1,0.4,1,0.2,0.4,0.2,2
+"73","./ieeelatam/data/marzo/semana4/","20200322_RF_Aislaron a la comunidad menonita y a Nueva Galia.txt",11,5.08575,3,0.9,0.462340909090909,0.3,5.65083333333334
+"74","./ieeelatam/data/marzo/semana4/","20200322_RF_Aislaron a tres familiares de Dybala y denunciaron que el hermano rompió la cuarentena.txt",36,18.9,1,0.2,0.525,0.2,94.5
+"75","./ieeelatam/data/marzo/semana4/","20200322_RF_El Senador Marino anunció que donará su sueldo a los hospitales Centeno y Molas.txt",12,5.9666,3,0.7,0.497216666666667,0.233333333333333,8.52371428571429
+"76","./ieeelatam/data/marzo/semana4/","20200323_DT_Cuarentena. un micro con 30 argentinos repatriados no pudo pasar por La Pampa.txt",25,10.04285,6,1.13333333333333,0.401714,0.188888888888889,8.86133823529412
+"77","./ieeelatam/data/marzo/semana4/","20200323_DT_El domingo detuvieron a 419 pampeanos por no respetar la cuarentena por el coronavirus.txt",48,22.0334,16,7.95,0.459029166666667,0.496875,2.77149685534591
+"78","./ieeelatam/data/marzo/semana4/","20200323_DT_En diez días empezarían a hacer análisis de coronavirus en La Pampa.txt",62,32.26385,9,3,0.520384677419355,0.333333333333333,10.7546166666667
+"79","./ieeelatam/data/marzo/semana4/","20200323_DT_Ziliotto.«La pandemia, tarde o temprano, llegará a La Pampa».txt",57,30.47215,9,3,0.534599122807017,0.333333333333333,10.1573833333333
+"80","./ieeelatam/data/marzo/semana4/","20200323_ED_Confirmaron 36 nuevos casos y suman 301 los infectados en el país.txt",62,29.08585,8,3.4,0.469126612903226,0.425,8.55466176470588
+"81","./ieeelatam/data/marzo/semana4/","20200323_ED_La Pampa.descartaron cuatro casos sospechosos de coronavirus.txt",42,20.20015,9,3.4,0.480955952380952,0.377777777777778,5.9412205882353
+"82","./ieeelatam/data/marzo/semana4/","20200323_IP_Coronavirus. en General Pico el número de personas en cuarentena varía entre 90 y 110 al día de hoy.txt",2,0.5667,0,0,0.28335,NA,NA
+"83","./ieeelatam/data/marzo/semana4/","20200323_IP_El Gobierno les pagará 10 mil pesos a trabajadores informales y monotributistas clases A y B en el marco de la cuarentena por Coronavirus.txt",16,6.1,3,0.6,0.38125,0.2,10.1666666666667
+"84","./ieeelatam/data/marzo/semana4/","20200323_LA_Brasil, el país más afectado.txt",112,49.00975,39,11.8666666666667,0.437587053571429,0.304273504273504,4.13003511235955
+"85","./ieeelatam/data/marzo/semana4/","20200323_LA_Confirman 41 nuevos casos de coronavirus en Argentina.txt",68,31.9901,11,2.7667,0.470442647058824,0.251518181818182,11.5625474391875
+"86","./ieeelatam/data/marzo/semana4/","20200323_LA_El Gobierno lanzó la App Coronavirus Argentina.txt",27,12.7001,5,0.866666666666666,0.470374074074074,0.173333333333333,14.6539615384615
+"87","./ieeelatam/data/marzo/semana4/","20200323_LA_Nación analiza extender el aislamiento obligatorio.txt",83,37.4,28,9.2166,0.450602409638554,0.329164285714286,4.05789553631491
+"88","./ieeelatam/data/marzo/semana4/","20200323_LA_Tareas para preparar hospitales de campaña.txt",29,9.2333,8,2,0.318389655172414,0.25,4.61665
+"89","./ieeelatam/data/marzo/semana4/","20200323_LA_Un petrolero imputado por viralizar audio.txt",43,20.9596,12,2.96666666666667,0.487432558139535,0.247222222222222,7.06503370786517
+"90","./ieeelatam/data/marzo/semana4/","20200323_RF_Ya está disponible la app para hacerse un autotest de Coronavirus.txt",20,9.9668,4,2.4,0.49834,0.6,4.15283333333333
+"91","./ieeelatam/data/marzo/semana4/","20200324_DT_Un caso de coronavirus en La Pampa.txt",69,34.69285,25,9.29993333333333,0.502794927536232,0.371997333333333,3.73044072000516
+"92","./ieeelatam/data/marzo/semana4/","20200324_ED_Hay 86 nuevos casos y ya suman 387 los infectados en el país.txt",69,28.0167,13,5.8,0.406039130434783,0.446153846153846,4.83046551724138
+"93","./ieeelatam/data/marzo/semana4/","20200324_ED_Justicia penal. utilizan audios de Whats App para una causa por lesiones leves.txt",61,24.26295,22,11.0666666666667,0.397753278688525,0.503030303030303,2.19243524096386
+"94","./ieeelatam/data/marzo/semana4/","20200324_ED_La Memoria, sin marcha pero a través de las redes.txt",44,25.5999,11,5.9,0.581815909090909,0.536363636363636,4.33896610169491
+"95","./ieeelatam/data/marzo/semana4/","20200324_IP_Coronavirus.en medio de la cuarentena, una confitería de Salta regala desayunos a policías en agradecimiento por su trabajo.txt",22,11.66665,6,1.39996666666667,0.530302272727273,0.233327777777778,8.33351984571062
+"96","./ieeelatam/data/marzo/semana4/","20200324_LA_Covid-19. hay positivos cada vez más cercanos.txt",98,48.2522,11,3.29996666666667,0.492369387755102,0.29999696969697,14.622026485116
+"97","./ieeelatam/data/marzo/semana4/","20200324_LA_Menos muertos e infectados en Italia.txt",85,39.2761,25,9.43336666666667,0.462071764705882,0.377334666666667,4.16352945749308
+"98","./ieeelatam/data/marzo/semana4/","20200324_LA_Nación amplió el protocolo y se analizan ocho casos de coronavirus en La Pampa.txt",27,13.7222,5,1,0.50822962962963,0.2,13.7222
+"99","./ieeelatam/data/marzo/semana4/","20200324_RF_Confirmaron un nuevo fallecido por Coronavirus.txt",5,3.2,0,0,0.64,NA,NA
+"100","./ieeelatam/data/marzo/semana4/","20200324_RF_Equipos evalúan al paciente aplicando el protocolo pertinente afirman desde Salud.txt",16,6.8333,1,0.2,0.42708125,0.2,34.1665
+"101","./ieeelatam/data/marzo/semana4/","20200324_RF_La Pampa analiza casos conforme el protocolo de Nación sin registrar la presencia del virus.txt",57,24.5169,10,3.4,0.430121052631579,0.34,7.21085294117647
+"102","./ieeelatam/data/marzo/semana4/","20200324_RF_Mirá el increíble video de la evolución de casos en el mundo.txt",1,0.2,1,0.0666666666666667,0.2,0.0666666666666667,3
+"103","./ieeelatam/data/marzo/semana4/","20200324_RF_Sexto fallecido por Coronavirus. un hombre de 53 años de Chaco.txt",7,3.6667,1,0.6,0.523814285714286,0.6,6.11116666666667
+"104","./ieeelatam/data/marzo/semana4/","20200325_DT_Cierre de La Pampa. constitucionalista dice que el Gobierno tomó una medida ilegal.txt",57,26.65405,19,7.59996666666667,0.467614912280702,0.399998245614035,3.50712722424221
+"105","./ieeelatam/data/marzo/semana4/","20200325_DT_Coronavirus.en el Centro de Medicina Nuclear suman 19 camas de terapia y 18 de internación.txt",73,31.7334,18,5.2,0.434704109589041,0.288888888888889,6.10257692307692
+"106","./ieeelatam/data/marzo/semana4/","20200325_DT_Covid-19.casi 600 personas cumplen aislamiento estricto en La Pampa.txt",14,6.58335,2,0.4,0.470239285714286,0.2,16.458375
+"107","./ieeelatam/data/marzo/semana4/","20200325_ED_Coronavirus.117 nuevos casos y ya son 502 en el país.txt",22,8.3929,6,2,0.381495454545455,0.333333333333333,4.19645
+"108","./ieeelatam/data/marzo/semana4/","20200325_ED_El Centro de Asistencia Respiratoria sumaría 19 camas de terapia y 18 de internación.txt",73,31.5667,21,5.9,0.432420547945206,0.280952380952381,5.35028813559322
+"109","./ieeelatam/data/marzo/semana4/","20200325_ED_El pampeano con COVID-19, “estable”.txt",14,5.4666,3,0.6,0.390471428571429,0.2,9.111
+"110","./ieeelatam/data/marzo/semana4/","20200325_ED_En La Pampa hay 600 personas en aislamiento estricto.txt",44,17.80045,6,2.4,0.404555681818182,0.4,7.41685416666667
+"111","./ieeelatam/data/marzo/semana4/","20200325_ED_Internaron al primer caso de coronavirus de La Pampa.txt",21,11.5,2,0.4,0.547619047619048,0.2,28.75
+"112","./ieeelatam/data/marzo/semana4/","20200325_LA_El Presidente analiza nuevas medidas.txt",74,36.2522,23,7.1334,0.489894594594595,0.310147826086957,5.08203661648022
+"113","./ieeelatam/data/marzo/semana4/","20200325_LA_España ya superó a China en cantidad de muertos.txt",7,2.9083,2,0.5,0.415471428571429,0.25,5.8166
+"114","./ieeelatam/data/marzo/semana4/","20200325_LA_Un hombre que vino de España, primer caso en La Pampa.txt",82,40.8788,8,2.4,0.498521951219512,0.3,17.0328333333333
+"115","./ieeelatam/data/marzo/semana4/","20200325_LA_Ya casi no hay países sin afectados.txt",46,19.1118,14,4.9333,0.415473913043478,0.352378571428571,3.87403968945736
+"116","./ieeelatam/data/marzo/semana4/","20200325_RF_Indican uso de guantes y barbijos solo para personal de Salud y quienes tengan síntomas.txt",141,64.36085,24,6.3222,0.456459929078014,0.263425,10.1801350795609
+"117","./ieeelatam/data/marzo/semana4/","20200325_RF_Unas 580 personas cumplen aislamiento estricto en La Pampa.txt",49,19.4171,7,2.6,0.396267346938776,0.371428571428571,7.46811538461539
+"118","./ieeelatam/data/marzo/semana4/","20200325_RF_Vecino castense fabrica y dona máscaras protectoras para el personal de salud.txt",45,21.5,3,0.8,0.477777777777778,0.266666666666667,26.875
+"119","./ieeelatam/data/marzo/semana4/","20200326_DT_Coronavirus.el Malbrán descarta otros 4 casos de La Pampa y quedan 5 bajo análisis.txt",54,26.30955,12,4.6,0.487213888888889,0.383333333333333,5.71946739130435
+"120","./ieeelatam/data/marzo/semana4/","20200326_DT_Coronavirus.La Pampa sale a comprar 250 mil barbijos y 18 mil litros de alcohol en gel.txt",105,40.8857,28,8.5,0.389387619047619,0.303571428571428,4.81008235294118
+"121","./ieeelatam/data/marzo/semana4/","20200326_DT_Sin cambios aún en La Pampa.un contagiado y 7 en análisis.txt",43,22.3667,10,2.6,0.520155813953488,0.26,8.60257692307692
+"122","./ieeelatam/data/marzo/semana4/","20200326_ED_Suman camas e invierten fuertemente en insumos.txt",89,37.7608,19,5.5667,0.424278651685393,0.292984210526316,6.78333662672679
+"123","./ieeelatam/data/marzo/semana4/","20200326_ED_Suspendieron las elecciones en el Sipetax.txt",25,11.6665,8,2.6,0.46666,0.325,4.48711538461539
+"124","./ieeelatam/data/marzo/semana4/","20200326_IP_Coronavirus en Argentina. separan a tres gendarmes por bailar a dos jóvenes que no cumplían con la cuarentena.txt",23,10.4,3,1.4,0.452173913043478,0.466666666666667,7.42857142857143
+"125","./ieeelatam/data/marzo/semana4/","20200326_IP_La cuarentena obligatoria por el coronavirus seguirá hasta mediados de abril. cómo adoptó la decisión el presidente Alberto Fernández.txt",81,35.56195,23,6.66666666666667,0.439036419753086,0.289855072463768,5.3342925
+"126","./ieeelatam/data/marzo/semana4/","20200326_LA_Argentina y nueve países más fueron elegidos por la OMS para probar terapias contra el coronavirus.txt",31,15.7333,9,3.4333,0.507525806451613,0.381477777777778,4.5825590539714
+"127","./ieeelatam/data/marzo/semana4/","20200326_LA_Diseñaron un equipo que en 30 minutos elimina hasta el 99% de coronavirus en ambientes.txt",55,27.0476,6,1.2,0.491774545454546,0.2,22.5396666666667
+"128","./ieeelatam/data/marzo/semana4/","20200326_LA_El mundo habla de Didier Raoult.Quién es el científico que aseguró hallar el medicamento contra el coronavirus.txt",56,23.3302,26,8.9664,0.416610714285714,0.344861538461538,2.60195842255532
+"129","./ieeelatam/data/marzo/semana4/","20200326_LA_El pampeano diagnosticado con COVID-19 continúa estable.txt",79,32.8252,12,4.6,0.415508860759494,0.383333333333333,7.13591304347826
+"130","./ieeelatam/data/marzo/semana4/","20200326_LA_Novena víctima fatal por coronavirus en el país.txt",41,18.2167,6,2.5,0.444309756097561,0.416666666666667,7.28668
+"131","./ieeelatam/data/marzo/semana4/","20200326_LA_POR 180 DIAS.txt",59,27.4951,25,8.06666666666667,0.466018644067797,0.322666666666667,3.40848347107438
+"132","./ieeelatam/data/marzo/semana4/","20200326_RF_Confirmaron la novena muerte por Coronavirus.un hombre de 59 años en Chaco.txt",41,18.3167,5,1.9,0.446748780487805,0.38,9.64036842105263
+"133","./ieeelatam/data/marzo/semana4/","20200326_RF_Descartaron cuatro casos sospechosos de COVID-19.txt",14,6.2,6,2.8,0.442857142857143,0.466666666666667,2.21428571428571
+"134","./ieeelatam/data/marzo/semana4/","20200326_RF_El tiempo de los codiciosos ha llegado a su fin, dijo ante los líderes del G20.txt",35,16.06665,11,2.93336666666667,0.459047142857143,0.266669696969697,5.47720480449086
+"135","./ieeelatam/data/marzo/semana4/","20200327_ED_Carga de combustible. estaciones de servicio no recibirán más cheques.txt",53,21.05245,7,2.6,0.397216037735849,0.371428571428571,8.09709615384616
+"136","./ieeelatam/data/marzo/semana4/","20200327_ED_Cinco personas murieron y hay 101 nuevos casos.txt",32,11.2334,3,0.7,0.35104375,0.233333333333333,16.0477142857143
+"137","./ieeelatam/data/marzo/semana4/","20200327_ED_La UNLPam avanza con más clases virtuales desde el mes que viene.txt",36,19.481,7,1.5,0.541138888888889,0.214285714285714,12.9873333333333
+"138","./ieeelatam/data/marzo/semana4/","20200327_LA_Argentina prueba una droga contra el coronavirus.txt",31,12.1667,6,1.66666666666667,0.392474193548387,0.277777777777778,7.30002
+"139","./ieeelatam/data/marzo/semana4/","20200327_LA_Coronavirus en La Pampa.hay 5 sospechosos y descartaron 8 casos.txt",38,15.90955,5,2.6,0.418672368421053,0.52,6.11905769230769
+"140","./ieeelatam/data/marzo/semana4/","20200327_LA_Donarán novillos para ayudar a familias que más lo necesiten.txt",48,21.74555,7,2.66666666666667,0.453032291666667,0.380952380952381,8.15458125
+"141","./ieeelatam/data/marzo/semana4/","20200327_LA_Gobierno de Bolsonaro lanza campaña Brasil no puede parar pidiendo sabotear la cuarentena.txt",47,20.619,12,4.6,0.438702127659575,0.383333333333333,4.48239130434783
+"142","./ieeelatam/data/marzo/semana4/","20200328_IP_Coronavirus en Estados Unidos. falleció un bebé de menos de un año que tenía Covid-19.txt",11,5.8,5,3,0.527272727272727,0.6,1.93333333333333
+"143","./ieeelatam/data/marzo/semana4/","20200328_IP_Coronavirus. “hay menos casos de los esperados y el pico se va corriendo para mayo”, dijo el Ministro de Salud de Nación.txt",48,21.4274,15,5.8,0.446404166666667,0.386666666666667,3.69437931034483
+"144","./ieeelatam/data/marzo/semana4/","20200328_LA_Fiscales donan 400 mil.txt",22,10.90955,7,1.26666666666667,0.495888636363636,0.180952380952381,8.61280263157895
+"145","./ieeelatam/data/marzo/semana4/","20200328_LA_Italia superó las 10.000 muertes por coronavirus.txt",59,26.17605,13,3.86666666666667,0.44366186440678,0.297435897435897,6.76966810344828
+"146","./ieeelatam/data/marzo/semana4/","20200328_LA_La semana próxima comenzaría a verse el efecto cuarentena.txt",124,53.9328,25,8.4429,0.434941935483871,0.337716,6.3879472693032
+"147","./ieeelatam/data/marzo/semana4/","20200328_LA_Ocho formalizados.txt",12,5.57615,11,6.6,0.464679166666667,0.6,0.844871212121212
+"148","./ieeelatam/data/abril/semana5/","202003029_DT_Coronavirus en La Pampa.confirmaron otros dos casos y ya hay tres positivos.txt",21,11.2,3,0.8666,0.533333333333333,0.288866666666667,12.924071082391
+"149","./ieeelatam/data/abril/semana5/","202003029_DT_Nuevos casos de coronavirus en La Pampa, eran «lo esperado», dice Kohan.txt",96,47.9112,8,3,0.499075,0.375,15.9704
+"150","./ieeelatam/data/abril/semana5/","20200329_DT_Nación envió mil reactivos a La Pampa para diagnosticar coronavirus.txt",33,16.12865,6,1.5333,0.48874696969697,0.25555,10.5189134546403
+"151","./ieeelatam/data/abril/semana5/","20200329_ED_Confirman 2 nuevos casos de coronavirus en La Pampa.txt",30,16.1,8,3.8666,0.536666666666667,0.483325,4.16386489422231
+"152","./ieeelatam/data/abril/semana5/","20200329_ED_Envían mil reactivos para diagnóstico del COVID-19.txt",25,12.6715,5,1.3,0.50686,0.26,9.74730769230769
+"153","./ieeelatam/data/abril/semana5/","20200329_ED_Epidemiología recomienda no fumigar contra los mosquitos.txt",38,19.4429,12,3.4,0.511655263157895,0.283333333333333,5.7185
+"154","./ieeelatam/data/abril/semana5/","20200329_ED_Kohan y los dos nuevos contagiados. “Los estábamos esperando”.txt",93,45.4779,9,3.8,0.489009677419355,0.422222222222222,11.9678684210526
+"155","./ieeelatam/data/abril/semana5/","20200329_ED_Pereyra acepta recortes salariales para los trabajadores petroleros.txt",49,22.021,19,5.76666666666667,0.449408163265306,0.303508771929825,3.81867052023121
+"156","./ieeelatam/data/abril/semana5/","20200329_ED_Ziliotto informó la llegada de los reactivos y respiradores.txt",2,0.6666,5,1.6,0.3333,0.32,0.416625
+"157","./ieeelatam/data/abril/semana5/","20200329_LA_Hubo 58 detenidos en pueblos de la ruta 5.txt",12,7.01785,3,1.6,0.584820833333333,0.533333333333333,4.38615625
+"158","./ieeelatam/data/abril/semana5/","20200329_RF_98 médicos repatriados llegaron al país para colaborar en la lucha contra el Covid-19.txt",10,4.8,2,0.6,0.48,0.3,8
+"159","./ieeelatam/data/abril/semana5/","20200329_RF_Cumplen aislamiento estricto desde su llegada.txt",16,8.5,3,0.8666,0.53125,0.288866666666667,9.80844680360028
+"160","./ieeelatam/data/abril/semana5/","20200330_DT_Crean un fondo solidario en La Pampa.funcionarios ponen 10 millones.txt",24,12.375,7,3.1,0.515625,0.442857142857143,3.99193548387097
+"161","./ieeelatam/data/abril/semana5/","20200330_DT_Cuarentena en La Pampa.el hora a hora de Ziliotto y el hacerse cargo.txt",87,42.71415,30,9.96666666666667,0.49096724137931,0.332222222222222,4.28570066889632
+"162","./ieeelatam/data/abril/semana5/","20200330_ED_Cómo es la situación de la esposa del primer caso en la provincia.txt",30,14.5524,8,4,0.48508,0.5,3.6381
+"163","./ieeelatam/data/abril/semana5/","20200330_ED_Conmemoran el Día Nacional del Agua por las redes sociales.txt",21,11.1178,4,1.8,0.529419047619048,0.45,6.17655555555556
+"164","./ieeelatam/data/abril/semana5/","20200330_ED_Desinfectaron cajeros automáticos del BLP.txt",12,6.2143,7,1.65,0.517858333333333,0.235714285714286,3.76624242424242
+"165","./ieeelatam/data/abril/semana5/","20200330_ED_La Municipalidad y el Concejo se suman al fondo solidario.txt",31,15.34275,6,1.8,0.494927419354839,0.3,8.52375
+"166","./ieeelatam/data/abril/semana5/","20200330_ED_Legisladores nacionales del PJ también aportan al fondo solidario.txt",18,7.9667,3,0.8,0.442594444444444,0.266666666666667,9.95837500000001
+"167","./ieeelatam/data/abril/semana5/","20200330_ED_No se pueden utilizar prácticas represivas.txt",42,21.1669,13,7.7,0.50397380952381,0.592307692307692,2.74894805194805
+"168","./ieeelatam/data/abril/semana5/","20200330_ED_Ziliotto crea un Fondo Solidario con un aporte de 10 millones de pesos.txt",39,18.1,10,4.1,0.464102564102564,0.41,4.41463414634146
+"169","./ieeelatam/data/abril/semana5/","20200330_IP_Coronavirus. el gobierno de La Pampa crea un fondo solidario destinado a la compra de insumos hospitalarios.txt",18,8.5333,7,2.7,0.474072222222222,0.385714285714286,3.16048148148148
+"170","./ieeelatam/data/abril/semana5/","20200330_IP_Llegaron los reactivos para la detección de coronavirus a La Pampa.txt",26,14.9667,7,1.8667,0.575642307692308,0.266671428571429,8.01773182621739
+"171","./ieeelatam/data/abril/semana5/","20200330_IP_Vecinos solidarios donaron al hospital 70 máscaras de protección facial contra el Covid-19 realizadas con impresoras 3D.txt",29,14.28325,4,1.2,0.492525862068965,0.3,11.9027083333333
+"172","./ieeelatam/data/abril/semana5/","20200330_LA_España suma 812 muertos, 85.195 infectados y 16.780 recuperados.txt",8,3.0666,1,0.2,0.383325,0.2,15.333
+"173","./ieeelatam/data/abril/semana5/","20200330_LA_Reportan dos muertos y suman 22 en todo el país por coronavirus.txt",14,5.2888,1,0.2,0.377771428571429,0.2,26.444
+"174","./ieeelatam/data/abril/semana5/","20200330_LA_Siete casos confirmados en Bahía Blanca.txt",48,26.04275,6,1.6,0.542557291666667,0.266666666666667,16.27671875
+"175","./ieeelatam/data/abril/semana5/","20200330_LA_Un cuarto de los casos de coronavirus en el país ya fueron dados de alta.txt",17,7.69295,2,0.4,0.452526470588235,0.2,19.232375
+"176","./ieeelatam/data/abril/semana5/","20200330_RF_Funcionarios del Ejecutivo aportan 10 millones de pesos a un fondo solidario.txt",20,9.7333,8,3.5,0.486665,0.4375,2.78094285714286
+"177","./ieeelatam/data/abril/semana5/","20200331_DT_Argentina superó las 1000 personas contagiadas de coronavirus.txt",28,13.1667,6,2.6,0.470239285714286,0.433333333333333,5.06411538461539
+"178","./ieeelatam/data/abril/semana5/","20200331_DT_Cuarentena.la UNLPam creó un fondo solidario para dar alimentos a los estudiantes.txt",35,19.2429,2,0.4667,0.549797142857143,0.23335,41.2318405828155
+"179","./ieeelatam/data/abril/semana5/","20200331_DT_En el Hospital Molas se hizo el primer análisis de coronavirus de la provincia.txt",62,28.14295,17,5.70006666666667,0.453918548387097,0.335298039215686,4.93730190290172
+"180","./ieeelatam/data/abril/semana5/","20200331_ED_Amplian la terapia intensiva del Hospital Centeno que ahora tiene 14 camas.txt",36,13.2334,3,0.6,0.367594444444445,0.2,22.0556666666667
+"181","./ieeelatam/data/abril/semana5/","20200331_ED_El MOFEPA pidió que funcionarios no ganen más de 50 mil pesos.txt",38,19.8333,17,6.7667,0.521928947368421,0.398041176470588,2.93101511815213
+"182","./ieeelatam/data/abril/semana5/","20200331_ED_La UNLPam inicia este miércoles con las clases virtuales.txt",69,35.3334,5,1.26666666666667,0.512078260869565,0.253333333333333,27.8947894736842
+"183","./ieeelatam/data/abril/semana5/","20200331_ED_Los bancos abren el viernes para jubilados y asignaciones.txt",73,33.9429,16,4.6,0.464971232876712,0.2875,7.37889130434783
+"184","./ieeelatam/data/abril/semana5/","20200331_ED_Una aplicación revela que el aislamiento de los pampeanos es “medio”.txt",43,17.1,5,1.26666666666667,0.397674418604651,0.253333333333333,13.5
+"185","./ieeelatam/data/abril/semana5/","20200331_IP_Inauguraron la ampliación de la terapia del Hospital de General Pico y ahora es la más grande de La Pampa.txt",33,12.3334,4,0.9,0.373739393939394,0.225,13.7037777777778
+"186","./ieeelatam/data/abril/semana5/","20200331_LA_Murió una niña de 12 años por coronavirus en Bélgica.txt",30,12.0523,5,2.4,0.401743333333333,0.48,5.02179166666667
+"187","./ieeelatam/data/abril/semana5/","20200331_LA_Ziliotto creó un fondo con aportes de funcionarios.txt",112,58.57615,24,8.46666666666667,0.523001339285714,0.352777777777778,6.91844291338583
+"188","./ieeelatam/data/abril/semana5/","20200331_RF_Coronavirus. dos médicas de 63 y 52 años fallecieron esta madrugada.txt",34,14.69585,8,5.1333,0.432230882352941,0.6416625,2.86284651199034
+"189","./ieeelatam/data/abril/semana5/","20200331_RF_El Gobierno suma hoteles para casos que no requieran dispositivos hospitalarios.txt",34,15.28735,8,4.4,0.449627941176471,0.55,3.47439772727273
+"190","./ieeelatam/data/abril/semana5/","20200331_RF_Inauguraron la ampliación de la terapia intensiva del Centeno. Galería de fotos.txt",31,11.5667,4,0.9,0.37311935483871,0.225,12.8518888888889
+"191","./ieeelatam/data/abril/semana5/","20200401_DT_Este miércoles hubo 79 nuevos casos de coronavirus en el país y cuatro muertes.txt",7,4.2,2,0.4,0.6,0.2,10.5
+"192","./ieeelatam/data/abril/semana5/","20200401_ED_Confirman 79 nuevos casos. hay 1.133 contagiados en el pais.txt",18,8.7667,1,0.4,0.487038888888889,0.4,21.91675
+"193","./ieeelatam/data/abril/semana5/","20200401_ED_Cooperadora del Molas pide colaboraciones espontáneas.txt",25,11.83335,8,1.6,0.473334,0.2,7.39584375
+"194","./ieeelatam/data/abril/semana5/","20200401_ED_Di Nápoli dice que se alcanza a cubrir la gran demanda alimentaria.txt",194,90.12405,43,16,0.464556958762887,0.372093023255814,5.632753125
+"195","./ieeelatam/data/abril/semana5/","20200401_ED_Dieron de alta a la mujer con coronavirus.txt",12,6.6,7,1.8666,0.55,0.266657142857143,3.53584056573449
+"196","./ieeelatam/data/abril/semana5/","20200401_ED_La UNLPam crea un Fondo Solidario dirigido a los estudiantes.txt",34,18.8239,3,0.7667,0.553644117647059,0.255566666666667,24.5518455719316
+"197","./ieeelatam/data/abril/semana5/","20200401_ED_Salud lanzó la vacunación antigripal domiciliaria.txt",30,15.0444,9,3.1333,0.50148,0.348144444444444,4.80145533463122
+"198","./ieeelatam/data/abril/semana5/","20200401_IP_Coronavirus en La Pampa. Dan el alta médica a la paciente que obtuviera resultado positivo.txt",29,13.31675,6,2.4,0.459198275862069,0.4,5.54864583333333
+"199","./ieeelatam/data/abril/semana5/","20200401_IP_Coronavirus. confirmaron 79 casos nuevos y ya son 1133 los contagiados, La Pampa sigue igual.txt",24,11.5334,4,0.8,0.480558333333333,0.2,14.41675
+"200","./ieeelatam/data/abril/semana5/","20200401_LA_Estados Unidos, peor que Europa.txt",62,31.80715,17,6.7,0.513018548387097,0.394117647058823,4.74733582089552
+"201","./ieeelatam/data/abril/semana5/","20200401_LA_Un fármaco, probado en Italia, abre una nueva esperanza contra el coronavirus.txt",21,7.44285,12,3.0666,0.354421428571429,0.25555,2.42706906671884
+"202","./ieeelatam/data/abril/semana5/","20200401_LA_Viajantes de Huinca piden buenos tratos.txt",42,16.20395,8,3,0.385808333333333,0.375,5.40131666666667
+"203","./ieeelatam/data/abril/semana5/","20200401_LA_Ya son 32 las muertes por coronavirus en Argentina.txt",44,19.13175,11,6.2,0.4348125,0.563636363636364,3.08576612903226
+"204","./ieeelatam/data/abril/semana5/","20200401_RF_Coronavirus. falleció el cónsul general de Chile en Rosario.txt",10,4.13175,3,1,0.413175,0.333333333333333,4.13175
+"205","./ieeelatam/data/abril/semana5/","20200401_RF_En Alvear, no hay casos sospechosos de Covid-19.txt",65,28.86665,15,3.43326666666667,0.444102307692308,0.228884444444444,8.40792539660965
+"206","./ieeelatam/data/abril/semana5/","20200401_RF_Farmacias piquenses aplican la receta digital y combaten la automedicación.txt",90,34.3357,22,6.29996666666667,0.381507777777778,0.286362121212121,5.45013994783041
+"207","./ieeelatam/data/abril/semana5/","20200402_DT_Covid-19.externaron al paciente cero de La Pampa.txt",22,11.2,2,0.4,0.509090909090909,0.2,28
+"208","./ieeelatam/data/abril/semana5/","20200402_ED_El CFI aportó 30 millones de pesos a La Pampa.txt",24,13.3333,3,0.9,0.555554166666667,0.3,14.8147777777778
+"209","./ieeelatam/data/abril/semana5/","20200402_ED_El Gobierno ha reaccionado bien.txt",28,12.8859,6,2.8,0.460210714285714,0.466666666666667,4.60210714285714
+"210","./ieeelatam/data/abril/semana5/","20200402_ED_El gobierno recordó Malvinas.txt",55,28.43315,15,7,0.516966363636364,0.466666666666667,4.06187857142857
+"211","./ieeelatam/data/abril/semana5/","20200402_IP_En medio de la cuarentena por Coronavirus, la Universidad de La Pampa entregó más de 140 bolsas de mercadería a becarios de General Pico y Santa Rosa.txt",10,5.5143,6,1.06666666666667,0.55143,0.177777777777778,5.16965625
+"212","./ieeelatam/data/abril/semana5/","20200402_IP_La Pampa, coronavirus y la grieta.y vos de qué lado estás.txt",48,22.2111,32,13.4833,0.46273125,0.421353125,1.64730444327427
+"213","./ieeelatam/data/abril/semana5/","20200402_IP_La Pampa. Externan al primer paciente diagnosticado con COVID-19.txt",10,3.2,2,0.4,0.32,0.2,8
+"214","./ieeelatam/data/abril/semana5/","20200402_LA_Habrá atención igualitaria. unifican la salud pública y privada.txt",105,49.3448,23,8.66666666666667,0.469950476190476,0.376811594202899,5.69363076923077
+"215","./ieeelatam/data/abril/semana5/","20200402_LA_Más de 4 mil muertos en USA.txt",77,36.14435,22,7.46666666666667,0.469407142857143,0.339393939393939,4.84076116071429
+"216","./ieeelatam/data/abril/semana5/","20200402_RF_Externaron al paciente cero y ya se encuentra en su casa.txt",10,3.2,2,0.4,0.32,0.2,8
+"217","./ieeelatam/data/abril/semana5/","20200402_RF_Kohan reveló que hubo quienes quisieron comprar respiradores para sus hogares.txt",27,13.5667,6,1.4,0.50247037037037,0.233333333333333,9.6905

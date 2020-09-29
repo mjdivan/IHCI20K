@@ -1,0 +1,9 @@
+n la últimas horas, lanzaron una aplicación oficial que permite realizar una autoevaluación de síntomas de COVID-19.Coronavirus Covid-19 es la app oficial del Ministerio de Salud de la Nación y tiene como objetivo que los argentinos y las argentinas puedan realizarse una rápida autoevaluación para saber si sus síntomas son compatibles con el virus. Ya puede ser descargada a través de teléfonos Android o realizarse vía online.
+
+La herramienta recoge datos como temperatura corporal, si el usuario posee tos, dolor de garganta o dificultad para respirar. Además, solicita información sobre antecedentes de enfermedades y datos personales para realizar el contacto.
+
+También, incorporará un mapa con geo localización de las unidades de salud cercanas al Usuario.
+
+Quien posea síntomas compatibles con la enfermedad podrá informarlos a través de la Aplicación y recibir orientación y/o instrucciones para ser atendido en la unidad de salud más cercana.
+
+Accedé a la app ingresando acá.

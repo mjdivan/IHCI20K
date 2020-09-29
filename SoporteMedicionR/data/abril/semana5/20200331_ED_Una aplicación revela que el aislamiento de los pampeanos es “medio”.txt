@@ -1,0 +1,30 @@
+La App fue elaborada por le empresa GranData y vigila -en tiempo real- el movimiento de las personas a través sus teléfonos celulares. Además, compara los datos entre provincias y ciudades.
+
+La empresa GranData elaboró una novedosa aplicación que permite monitorear el cumplimiento del aislamiento obligatorio utilizando datos de los movimientos en los teléfonos celulares.
+
+A través de un mapa interactivo, la herramienta permite corroborar el efectivo cumplimiento de la cuarentena en todas las provincias y, según esa app, La Pampa presenta un medio nivel de acatamiento de la medida con un -30.08% de reducción de la movilidad.
+
+Con un gráfico que muestra la evolución, en promedio, del movimiento de los ciudadanos de la provincia desde antes del inicio de la medida preventiva, se pueden comparar los datos con los registros nacionales.
+
+Además, exhibe el incremento de casos reportados de rompimiento de cuarentena desde los comienzos del mes hasta el último 27 de marzo.
+GranData fue creada en el año 2012 por Mat Travizano, Martín Minnoni y Nicolás Goulu.
+
+Es una firma de servicios y tecnologías de la información: según su propia descripción, “utiliza bases de datos anonimizadas de diversas industrias para comprender tendencias de mercado y predecir el comportamiento de los usuarios”. Su objetivo es crear una plataforma de monetización de datos universales confiables y su lema, la comprensión de la dinámica humana a través de los datos.
+
+Aplicable a los tiempos de pandemia, el CEO de GranData publicó en sus redes sociales el programa que denominó “Combatiendo el Covid-19 con datos”.
+
+Es una herramienta que mide el impacto del aislamiento social, preventivo y obligatorio en el movimiento de las personas. Compara el nivel de circulación de la población antes y después de la cuarentena mediante el uso del geolocalización de cientos de aplicaciones móviles de los celulares sin identificador.
+
+En un análisis general, Travizano concluyó que “la movilidad se redujo más de la mitad”.
+
+El programa consiste en un mapa del país que entrega información detallada sobre provincias y municipios. Son dos planos: uno que entrega los porcentajes del flujo de la movilidad en cada provincia y otro, click mediante, que discrimina la circulación por municipios. En ambos, el uso de colores identifica la graduación del acatamiento de las medidas en cada jurisdicción elegida.
+
+Un tercer gráfico evalúa las curvas de tres indicadores: la movilidad del país, la movilidad variable en cada provincia seleccionada y los casos reportados. El cuadro actualiza los valores cada dos días.
+
+“Para cada provincia y municipio calculamos el porcentaje de reducción del movimiento de las personas usando como referencia el movimiento antes de la cuarentena”, explicó Travizano.
+
+La provincia de Buenos Aires, por ejemplo, redujo su movilidad un 43,41 por ciento.
+
+La Ciudad, en cambio, es la jurisdicción con mayor nivel de acatamiento de la cuarentena con un 54,86% de transformación en el flujo de movilidad.
+
+Catamarca, curiosamente una de las tres provincias que no registran casos positivos de coronavirus, presenta el peor registro: una reducción del 16,81% en la movilidad.

@@ -1,0 +1,7 @@
+TABLEAU PUBLIC
+==============
+URLS con Prototipos Visuales basado en el Proyecto de Medición
+
+https://public.tableau.com/profile/laura6551#!/vizhome/Dash1-Polaridad/Dashboard?publish=yes
+
+https://www.google.com/url?q=https://public.tableau.com/profile/laura6551%23!/vizhome/Dash2-Tipo50/DashTipo50?publish%3Dyes&sa=D&source=hangouts&ust=1597435439870000&usg=AFQjCNHQaucwJVzN7CL95N_bMA95_Jb9wg
